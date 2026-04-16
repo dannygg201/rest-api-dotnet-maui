@@ -1,13 +1,13 @@
 # KPI Dashboard WPF (MVVM)
 
-## 📌 Descripción
+## Descripción
 Aplicación de escritorio desarrollada en WPF bajo el patrón MVVM para el control y seguimiento de KPIs de personal contratista.
 
 Permite visualizar métricas de desempeño de forma clara y dinámica, facilitando el análisis de información.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 - C#
 - WPF
 - MVVM
@@ -15,7 +15,7 @@ Permite visualizar métricas de desempeño de forma clara y dinámica, facilitan
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Visualización de KPIs
 - Carga dinámica de datos
 - Persistencia local con archivos JSON
@@ -23,17 +23,17 @@ Permite visualizar métricas de desempeño de forma clara y dinámica, facilitan
 
 ---
 
-## 🧠 Enfoque
+## Enfoque
 Enfoque en visualización de datos y lógica de negocio aplicada a la gestión de información.
 
 ---
 
-## ▶️ Ejecución
+## Ejecución
 1. Clonar el repositorio
 2. Abrir el proyecto en Visual Studio
 3. Ejecutar la aplicación
 
 ---
 
-## 📌 Autor
+## Autor
 Danny González Silva
